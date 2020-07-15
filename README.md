@@ -4,9 +4,7 @@ I experienced how hard building a great team and a great product Customers love 
 
 During my recent years, learning how to scale a SaaS Platform, building a great startup, finding awesome people to work and working with big retails in the UK and US were added as indispensable assets to my experience & knowledge. Moreover, I had a chance working at scale and building software for more than 100M monthly active users in meta search, marketplace and travel domains reaching more than 32 markets.
 
-More on:
-
-- [https://mahmutcanga.com](https://mahmutcanga.com)
+[https://mahmutcanga.com](https://mahmutcanga.com)
 
 <!--
 **macromania/macromania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
