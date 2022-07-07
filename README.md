@@ -8,6 +8,11 @@ Currently, I'm Software Engineer at AWS working with customers to help them buil
 
 [https://mahmutcanga.com](https://mahmutcanga.com)
 
+[![Mahmut's GitHub stats](https://github-readme-stats.vercel.app/api?username=macromania&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macromania&layout=compact&hide=java)](https://mahmutcanga.com)
+
+
 <!--
 **macromania/macromania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
