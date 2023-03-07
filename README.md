@@ -14,7 +14,7 @@ Currently, I’m a Principal Software Engineer at Microsoft working in a global 
 
 [![Mahmut's GitHub stats](https://github-readme-stats.vercel.app/api?username=macromania&include_all_commits=true&count_private=true&show_icons=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macromania&layout=compact&hide=java)](https://mahmutcanga.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macromania&layout=compact)](https://mahmutcanga.com)
 
 
 <!--
