@@ -27,14 +27,14 @@ API Gateway Proxy Result Wrapper
 [AI Development Template](https://github.com/macromania/pyjunk)  
 Ready to go AI development template project
 
-[Agent Observability](https://github.com/mahmutcanga/agent-observability)  
+[Agent Observability](https://github.com/macromania/agent-observability)  
 A production-ready FastAPI application demonstrating comprehensive OpenTelemetry integration with Azure Application Insights for AI agent workflows.
 
 ---
 
 ### Learning
 
-[Typescript Starter](https://github.com/mahmutcanga/typescript-starter)  
+[Typescript Starter](https://github.com/macromania/typescript-starter)  
 A starter project for learning and setting up Typescript projects with Domain Driven Design (DDD)
 
 [AI Development Starter](https://github.com/macromania/gen-ai-inner-loop-workshop)  
