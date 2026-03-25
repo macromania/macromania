@@ -1,14 +1,12 @@
-### Hi there 👋🏼
+### Building AI-driven solutions and Cloud Applications with a focus on excellence, leadership, and innovation.
 
-I experienced how hard building a great team and a great product Customers love and want. I witnessed how hard building a category that can really change the world. Without a doubt, this fosters my product & engineering thinking in my daily contributions.
+Currently serving as a Principal Software Engineer at Microsoft, I lead AI development and cloud solutions with a focus on innovation and excellence. My journey includes key positions at AWS, Skyscanner, and Poq, where I’ve consistently driven technical advancements and mentored engineering teams.  
 
-During my recent years, learning how to scale a SaaS Platform, building a great startup, finding awesome people to work and working with big retails in the UK and US were added as indispensable assets to my experience & knowledge. Moreover, I had a chance working at scale and building software for more than 100M monthly active users in meta search, marketplace and travel domains reaching more than 32 markets.
+My work spans from designing high-traffic applications to implementing cutting-edge AI solutions. I’ve contributed to projects across retail and finance sectors, always prioritizing scalable, maintainable architecture and robust engineering practices.  
 
-In addition, helping customers solve complex software engineering problems by extending software engineering and operational excellence practices, delivering robust and operationally ready software solutions using cloud native software development techniques at big scale financial software designs end to end strengthen my vision and capabilities at enterprise level.
+Beyond my professional endeavors, I’m passionate about football and actively participate in local clubs, including the Microsoft Football Club UK. This sport has taught me valuable lessons about teamwork and strategic thinking that I apply to my engineering work.  
 
-I’m always keen to reflect all these hard gained experiences in my next role to the team via a mentor-mentor relationship with fellow engineers, designers, product managers, leaders and of course to the customers.
-
-Currently, I’m a Principal Software Engineer at Microsoft working in a global engineering organization that works directly with the largest companies and not-for-profits in the world to tackle their most significant technical challenges.
+I’m also an enthusiast of go-karting and racing, enjoying the precision and quick decision-making these activities demand. In my free time, I contribute to the software engineering community through mentoring and developing innovative software solutions.  
 
 [https://mahmutcanga.com](https://mahmutcanga.com)
 
