@@ -1,4 +1,4 @@
-### Building AI-driven solutions and Cloud Applications with a focus on excellence, leadership, and innovation.
+## Building AI-driven solutions and Cloud Applications
 
 Currently serving as a Principal Software Engineer at Microsoft, I lead AI development and cloud solutions with a focus on innovation and excellence. My journey includes key positions at AWS, Skyscanner, and Poq, where I’ve consistently driven technical advancements and mentored engineering teams.  
 
@@ -7,6 +7,31 @@ My work spans from designing high-traffic applications to implementing cutting-e
 Beyond my professional endeavors, I’m passionate about football and actively participate in local clubs, including the Microsoft Football Club UK. This sport has taught me valuable lessons about teamwork and strategic thinking that I apply to my engineering work.  
 
 I’m also an enthusiast of go-karting and racing, enjoying the precision and quick decision-making these activities demand. In my free time, I contribute to the software engineering community through mentoring and developing innovative software solutions.  
+
+### Azure Samples
+
+[https://github.com/Azure-Samples/pubsub-dapr-aks-java](PubSub DAPR using Java on AKS)    
+This sample is to demonstrate a pub/sub messaging architecture using Dapr for a Java application running in a Kubernetes cluster.
+
+[https://github.com/Azure-Samples/java-rate-limiting-pattern-sample](Rate Limiting Pattern with distributed locks using Java)  
+An implementation of Rate Limiting Pattern in Java using Distributed Lock for Lease Management in k8s.
+
+### Open Source Gifts
+[https://github.com/macromania/lambda-result](Lambda Result Pattern)  
+API Gateway Proxy Result Wrapper
+
+[https://github.com/macromania/pyjunk](AI Development Template)    
+Ready to go AI development template project
+
+### Learning
+
+[https://github.com/mahmutcanga/typescript-starter](Typescript Starter)  
+A starter project for learning and setting up Typescript projects with Domain Driven Design (DDD)
+
+[https://github.com/macromania/gen-ai-inner-loop-workshop](AI Development Starter)  
+A self-paced workshop to bootstrap your AI application development journey
+
+### Appendix
 
 [https://mahmutcanga.com](https://mahmutcanga.com)
 
