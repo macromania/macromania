@@ -10,6 +10,22 @@ I’m also an enthusiast of go-karting and racing, enjoying the precision and qu
 
 ---
 
+### AI
+
+[AI Development Template](https://github.com/macromania/pyjunk)  
+Ready to go AI development template project
+
+[Agent Observability](https://github.com/macromania/agent-observability)  
+A production-ready FastAPI application demonstrating comprehensive OpenTelemetry integration with Azure Application Insights for AI agent workflows.
+
+[ADR Agent](https://github.com/macromania/adr-agent)  
+Architecture Decision Record (ADR) agent.
+
+[AI Development Starter](https://github.com/macromania/gen-ai-inner-loop-workshop)  
+A self-paced workshop to bootstrap your AI application development journey
+
+---
+
 ### Azure Samples
 
 [PubSub DAPR using Java on AKS](https://github.com/Azure-Samples/pubsub-dapr-aks-java)  
@@ -21,24 +37,15 @@ An implementation of Rate Limiting Pattern in Java using Distributed Lock for Le
 ---
 
 ### Open Source Gifts
+
 [Lambda Result Pattern](https://github.com/macromania/lambda-result)  
 API Gateway Proxy Result Wrapper
-
-[AI Development Template](https://github.com/macromania/pyjunk)  
-Ready to go AI development template project
-
-[Agent Observability](https://github.com/macromania/agent-observability)  
-A production-ready FastAPI application demonstrating comprehensive OpenTelemetry integration with Azure Application Insights for AI agent workflows.
-
----
-
-### Learning
 
 [Typescript Starter](https://github.com/macromania/typescript-starter)  
 A starter project for learning and setting up Typescript projects with Domain Driven Design (DDD)
 
-[AI Development Starter](https://github.com/macromania/gen-ai-inner-loop-workshop)  
-A self-paced workshop to bootstrap your AI application development journey
+[The Open Traffic Simulation](https://github.com/macromania/OST)  
+The Open Trafic Simulation is a project meant to be used as an extension to advance SUMO simulation tool. 
 
 ---
 
