@@ -12,6 +12,9 @@ I’m also an enthusiast of go-karting and racing, enjoying the precision and qu
 
 ### AI
 
+[AgentOp](https://github.com/macromania/agentop)  
+Outcome-focused parallel agent desktop application that replaces chat-driven AI workflows with a goal-first model.
+
 [AI Development Template](https://github.com/macromania/pyjunk)  
 Ready to go AI development template project
 
